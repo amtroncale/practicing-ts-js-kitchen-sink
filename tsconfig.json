@@ -1,0 +1,12 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+      "target": "ESNext",
+      "sourceMap": true,
+      "strict": true,
+      "noImplicitAny": true,
+      "noImplicitThis": true,
+      "moduleResolution": "Node"
+    },
+    "include": [ "./*.ts" ]
+}
